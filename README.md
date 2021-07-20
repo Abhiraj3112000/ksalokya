@@ -40,6 +40,8 @@
   <code><img height="45" alt="jQuery" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"></code>
 
   <code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+  <code><img height="45" alt="React" style="background: white;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img height="45" alt="React" style="background: white;" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img height="45" alt="Node.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img height="45" alt="Express.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"></code>
 
